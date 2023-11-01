@@ -1,0 +1,37 @@
+DEALERSHIP_ID,REGION,EMPLOYEE_ID,FIRST_NAME,LAST_NAME,ADDRESS,CITY,STATE,COUNTRY,PHONE NUMBER,FAX NUMBER,EMAIL,GENDER,POSITION TYPE,HIRE_DATE,DATE_ENTERED,Causa_Rechazo
+,West,86423.0,Reynaldo,Reniva,1214 Silver Lake Blvd,San Diego,California,United States,2134138713,2134138713,rreynaldo@geocities.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00,Sin Identificador de distribuidor
+,West,86426.0,Carl,Davidson,168 Belwood Ct,San Diego,California,United States,4083561435,4083561435,dcarl@yahoo.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Identificador de distribuidor
+,West,86440.0,Jolena,James,1225 S Wilton Pl,San Diego,California,United States,3237325656,3237325656,jjolena@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Identificador de distribuidor
+,West,86478.0,Arturo,Martinez,3573 Buford Hwy Ne,San Diego,California,United States,4043299857,4043299857,marturo@xyz.org,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Identificador de distribuidor
+5.0,West,,,Vela,131 N Record Ave,Los Angeles,California,United States,3232698579,3232698579,vanthony@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Identificador de empleado
+14.0,Central,,,Acantilado,2034 S Genesee Ave,Chicago,Illinois,United States,3239365458,3239365458,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00,Sin Identificador de empleado
+25.0,East,,Harold J,King,,Atlanta,Georgia,United States,3103987506,3103987506,kharoldj@compuserve.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Identificador de empleado
+4.0,West,86412.0,Bobby P,Renna,1850 Whitley Ave,Scottsdale,Arizona,United States,3238564909,3238564909,rbobbyp@mailcity.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+5.0,West,86431.0,Anthony,Vela,131 N Record Ave,Los Angeles,California,United States,3232698579,3232698579,vanthony@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+5.0,West,86434.0,R R,Renfro,806 S Spaulding Ave,Los Angeles,California,United States,3239365604,3239365604,rrr@hotmail.com,M,EXECUTIVE,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+5.0,West,86459.0,J F,Anderson,1818 Homestead Ave Ne,Los Angeles,California,United States,4048768794,4048768794,ajf@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+5.0,West,86406.0,Boun S,Lee,450 S Grand View St,Los Angeles,California,United States,2133864804,2133864804,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+6.0,West,86424.0,Michael,Renk,3448 Sawtelle Blvd Apt 18,Newport Beach,California,United States,3103905216,3103905216,rmichael@univ.edu,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+6.0,West,86432.0,Jose P,Velasco,1027 W 110th St,Newport Beach,California,United States,3237579073,3237579073,vjosep@compuserve.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+6.0,West,86402.0,Jeffrey,James,11980 San Vicente Blvd,Newport Beach,California,United States,3108265414,3108265414,jjeffrey@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+6.0,West,86403.0,Izhak,Jamatty,112 N Hayworth Ave,Newport Beach,California,United States,3239318755,3239318755,jizhak@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+7.0,West,86427.0,J H,Fadeley,682 Irolo St,Denver,Colorado,United States,2133805308,2133805308,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+7.0,West,86453.0,Ebrahim,Fadakar,4018 Camero Ave,Denver,Colorado,United States,3236642918,3236642918,febrahim@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+7.0,West,86481.0,Holsie,King,4201 Angeles Vista Blvd,Denver,Colorado,United States,3232999551,3232999551,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+7.0,West,86481.0,Holsie,King,4211 Angeles Vista Blvd,Denver,Colorado,United States,3232999551,3232999551,,M,SALESREP,1/2/2003 0:00,1/3/2003 0:00,Sin Salario
+8.0,West,86428.0,David T,Acalin,4221 Wilshire Blvd,Sacramento,California,United States,3239378888,3239378888,adavidt@yahoo.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+8.0,West,86491.0,Christopher,Von Gal,230 Peachtree St Nw,Sacramento,California,United States,4048939977,4048939977,vchristopher@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+8.0,West,86428.0,David T,Acalin,4221 Wilshire Blvd,Sacramento,California,United States,3239378888,3239978888,adavidt@yahoo.com,M,MANAGER,1/2/2003 0:00,1/3/2003 0:00,Sin Salario
+9.0,West,86439.0,Hagop,Jambaziam,1640 N Hobart Blvd,San Jose,California,United States,3234653014,3234653014,jhagop@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+9.0,West,86411.0,Dean,Renly,7719 Lexington Ave,San Jose,California,United States,3238769727,3238769727,rdean@hotmail.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00,Sin Salario
+9.0,West,86419.0,Alan,David,1925 Century Park E,San Jose,California,United States,3102038000,3102038000,dalan@xyz.org,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+10.0,West,86448.0,Bernard,Davidson,9509 Sawyer St,Oakland,California,United States,3108391924,3108391924,dbernard@hotmail.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+10.0,West,86472.0,William A,Brabson,2141 Springdale Rd Sw,Oakland,California,United States,4047668150,4047668150,bwilliama@yahoo.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+10.0,West,86461.0,David C,Andersen,2236 Old Brooke Ln,Oakland,California,United States,7703941706,7703941706,adavidc@geocities.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+10.0,West,86407.0,J,Kingsbury,3042 Rowena Dr,Oakland,California,United States,5624305744,5624305744,kj@xyz.org,M,MANAGER,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+27.0,West,86494.0,Beau,Teague,1131 Pinhurst Dr,Phoenix,Arizona,United States,7703840477,7703840477,tbeau@xyz.org,M,MANAGER,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+27.0,West,86417.0,Darren,Xanthos,10727 Lawler St,Phoenix,Arizona,United States,3108385276,3108385276,xdarren@yahoo.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+28.0,West,86422.0,Owen,Davies,120 S Vignes St,Honolulu,Hawaii,United States,2136251538,2136251538,dowen@mailcity.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+28.0,West,86446.0,Richard,Teach,1814 Village Mill Rd,Honolulu,Hawaii,United States,7703965851,7703965851,trichard@univ.edu,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+28.0,West,86454.0,Ric R,Carrasquilla,12 Peachtree Ave Ne,Honolulu,Hawaii,United States,4048698408,4048698408,cricr@yahoo.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
+28.0,West,86495.0,A G,Teague,2055 Wallace Rd Sw,Honolulu,Hawaii,United States,4043442134,4043442134,,M,MANAGER,1/3/2003 0:00,1/3/2003 0:00,Sin Salario
