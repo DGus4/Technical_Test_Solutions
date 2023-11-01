@@ -1,0 +1,4 @@
+Employee_Key,Name,Phone_Number,Fax_Number,Email,Address,Salary,Dealership_Manager,Position_Type,City,State,Region,Country
+86476.0,John JErnst,(770) 455-8118,(770) 455-8118,ejohnh@univ.edu,3310 Chase Rd,1000,15.0,SALESREP,Minneapolis,Minnesota,Central,United States
+86457.0,Fredia MBradford,(404) 762-6374,(404) 762-6374,,30093 Washington Rd,1000,16.0,MANAGER,Ann Arbour,Michigan,Central,United States
+86421.0,Bruce NDavidson,(323) 882-6233,(323) 882-6233,dbrucen@hotmail.com,7779 Lexington Ave,1000,23.0,SALESREP,Fairfax,Virginia,East,United States
